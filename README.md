@@ -1,1 +1,1 @@
-# Candido-Polanco
+# Repositorio sobre el nivel básico de Java se muestra el Hola Mundo, programa sobre una tienda de ropa (Shirt), ejercicios sobre expresiones matemáticas, calculo de la distancia entre dos puntos, aproximación de un valor en una suma
