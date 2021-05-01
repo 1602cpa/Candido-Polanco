@@ -1,1 +1,5 @@
-# Repositorio sobre el nivel básico de Java se muestra el Hola Mundo, programa sobre una tienda de ropa (Shirt), ejercicios sobre expresiones matemáticas, calculo de la distancia entre dos puntos, aproximación de un valor en una suma
+# Programa Hola Mundo 
+Programa Shirt
+Programa sobre expresiones matemáticas
+Programa sobre el cálculo de la distancia entre dos puntos
+Programa sobre la aproximación de un valor en una suma
